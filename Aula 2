@@ -1,0 +1,12 @@
+void main() {
+  String nome = "Lojinha do Antonio";
+  int bananas = 5;
+  double preco = 10.50;
+  bool AindaTem = true; //true - Verdadeiro / false - Falso
+  
+  print("O nome da lojinha é: $nome");
+  print("A $nome tem $bananas Bananas");
+  print(preco);
+  bananas = 10;
+  
+}
